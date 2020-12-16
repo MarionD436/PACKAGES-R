@@ -1,5 +1,5 @@
 # JANITOR
-#JANITOR NEW RELEQSE
+#JANITOR NEW RELEASE
 - janitor 2.0.0 package 
 - You can find more information on this new release and any new functions and capabilities associated here => http://sfirke.github.io/janitor/news/index.html
 
